@@ -1,4 +1,4 @@
 # tamuhack
-squid game inspired tug of war game
-answer questions about financial literacy to pull the rope
-don't fall into the void!
+squid game inspired financial literacy game.
+
+Not all of our data files could be uploaded due to their size and amount, but we can run the demo on our laptops.
